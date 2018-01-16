@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Stad {
 	
-	
-	ArrayList<String> stratenAmsterdam = new ArrayList<>();
+	String naamStad;
+	ArrayList<String> straten = new ArrayList<>();
 	
 }
