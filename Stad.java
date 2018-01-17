@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Stad {
-	
+public class Stad extends Straten{
 	String naamStad;
-	ArrayList<String> straten = new ArrayList<>();
-	
 }
